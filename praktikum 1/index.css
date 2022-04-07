@@ -1,0 +1,19 @@
+body {
+    background-color: #fff;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.card {
+    background-color: rgb(217, 196, 196);
+    margin: 50px 50px 50px 50px;
+    padding: 50px;
+}
+
+#button-tambah{
+    color: aquamarine;
+    background-color: black;
+}
+
+
+
